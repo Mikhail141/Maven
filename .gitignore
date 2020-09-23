@@ -47,3 +47,4 @@ out/
 !**/src/test/**
 *.idea/
 *.iml
+*maven.iml
